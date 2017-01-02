@@ -3,6 +3,6 @@ Programa el cual toma como entrada una llave pública SSH-RSA, la decripta e int
 
 1 Se deberá descargar los archivos script.sh y claves.c
 
-2 Ejecutar el comando chmod +x script.sh para ejecutar el script
+2 Ejecutar el comando chmod +x script.sh
 
 3 Ejecutar el script con el siguiente formato: ./script.sh -archivo- en donde archivo contiene la llave pública a ser descifrada
